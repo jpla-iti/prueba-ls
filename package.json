@@ -4,5 +4,8 @@
   "description": "Command line client for local-stamp",
   "bin": {
     "nlocal-stamp.sh": "bin/nlocal-stamp.sh"
+  },
+  "scripts": {
+    "install": "./bin/saasdk-install.sh"
   }
 }
