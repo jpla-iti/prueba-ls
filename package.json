@@ -6,6 +6,6 @@
     "nlocal-stamp.sh": "bin/nlocal-stamp.sh"
   },
   "scripts": {
-    "install": "./bin/saasdk-install.sh"
+    "install": "./bin/saasdk-install.sh; npm install -g @kumori/cli"
   }
 }
