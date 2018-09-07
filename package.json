@@ -3,6 +3,6 @@
   "version": "1.1.3",
   "description": "Command line client for local-stamp",
   "bin": {
-    "local-stamp.sh": "bin/local-stamp.sh"
+    "nlocal-stamp.sh": "bin/nlocal-stamp.sh"
   }
 }
