@@ -4,7 +4,7 @@
   "description": "Command line client for local-stamp",
   "bin": {
     "nlocal-stamp.sh": "bin/nlocal-stamp.sh",
-    "kumori.sh": "node_modules/@kumori/cli/lib/kumori"
+    "kumori": "node_modules/@kumori/cli/lib/kumori"
   },
   "scripts": {
     "install": "./bin/saasdk-install.sh;"
