@@ -1,1 +1,1 @@
-date > /tmp/ls-date
+npm install -g @kumori/cli
