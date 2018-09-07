@@ -3,7 +3,7 @@
   "version": "1.1.3",
   "description": "Command line client for local-stamp",
   "bin": {
-    "nlocal-stamp.sh": "bin/nlocal-stamp.sh",
+    "nlocal-stamp": "bin/nlocal-stamp.sh",
     "kumori": "node_modules/@kumori/cli/lib/kumori"
   },
   "scripts": {

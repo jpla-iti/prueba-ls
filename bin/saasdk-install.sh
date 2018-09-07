@@ -1,1 +1,5 @@
-date
+echo ""
+echo ""
+echo ""
+echo ""
+echo "Crongratulations! Now, commands nlocal-stamp and kumori are available!"
