@@ -1,1 +1,1 @@
-npm install -g @kumori/cli
+sudo npm install -g @kumori/cli
